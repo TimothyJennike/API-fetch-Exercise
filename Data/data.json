@@ -1,0 +1,28 @@
+{
+    "laptops":[
+        {
+            "id": "1",
+            "brand": "ASUS",
+            "serialNumber": "1027",
+            "userName": "Timothy"
+        },
+        {
+            "id": "2",
+            "brand": "Lenovo",
+            "serialNumber": "0527",
+            "userName": "Brandon"  
+        },
+        {
+            "id": "3",
+            "brand": "Razer",
+            "serialNumber": "1018",
+            "userName": "Maxwill"  
+        },
+        {
+            "id": "4",
+            "brand": "Meca",
+            "serialNumber": "1225",
+            "userName": "Lindokuhle"     
+        }
+    ]
+}
